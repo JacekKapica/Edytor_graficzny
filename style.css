@@ -1,0 +1,20 @@
+html,body{
+    margin:0;
+    height:100%;
+    width:100%;
+}
+#opis{
+    height:10%;
+}
+#plansza{
+    height:90%;
+}
+.pole{
+    float:left;
+    width:10%;
+    height:10%;
+    background-color: grey;
+}
+.pole:hover{
+    background-color: red;
+}
